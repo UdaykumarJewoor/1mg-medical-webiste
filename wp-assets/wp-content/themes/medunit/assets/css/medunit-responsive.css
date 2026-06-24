@@ -1,0 +1,750 @@
+@media screen and (min-width:1921px) {
+    .home2-appointment-form{
+        width: 660px !important;
+    }
+    .home-01-banner-content {
+        width: 630px !important;
+    }
+}
+@media screen and (max-width:1600px) {
+    .index2-banner-section {
+        background-size: cover;
+        position: relative;
+    }
+
+    .banner2-con p {
+        margin-bottom: 22px;
+    }
+    .index2-banner-shape {
+        height: 720px;
+    }
+    .index2-banner-section{
+        height: 720px;
+    }
+    .elementor-1994 .elementor-element.elementor-element-39aad431 img {
+        max-width: 126%;
+    }
+    
+}
+@media screen and (max-width: 1366px){
+	.service-main-section .owl-nav{
+		display: none !important;
+	  }
+	  .index2-project-section figure{
+		height: 100%;
+	  }
+      
+
+    .banner2-con h1 {
+        font-size: 50px;
+        line-height: 58px;
+    }
+
+    .banner2-con p {
+        margin-bottom: 20px;
+    }
+
+    .index2-about-image-box figure img {
+        width: 100%;
+    }
+    .doctor-slides .owl-carousel .owl-nav button.owl-prev,
+    .doctor-slides .owl-carousel .owl-nav button.owl-next {
+        width: 19px;
+        height: 34px;
+        position: unset;
+        top: unset;
+        transform: unset;
+        bottom: unset;
+        margin: 0 15px;
+    }
+
+    .doctor-slides .owl-carousel .owl-nav.disabled {
+        text-align: center;
+    }
+
+    .doctor-slides .owl-stage-outer {
+        margin-bottom: 40px;
+    }
+}
+@media screen and (max-width: 1199px) {
+	.subscribe-con input {
+        width: 422px;
+    }
+	.subscribe-con input {
+        width: 400px;
+    }
+
+    .subscribe-con button {
+        padding: 19px 26px 18px 27px;
+    }
+	.testimonial-main-sec .carousel-item p{
+		font-size: 18px;
+		line-height: 1.5em;
+	}
+	.member-img-details figure img {
+        width: 100%;
+    }
+
+    .team-inner-section {
+        gap: 24px;
+    }
+	.dentist-details {
+        padding: 153px 45px 35px;
+    }
+    .generic-btn a {
+        padding: 18px 20px;
+        font-size: 15px;
+    }
+    .banner2-con h1 {
+        font-size: 42px;
+        line-height: 50px;
+    }
+
+    .social-links ul li {
+        margin-bottom: 10px;
+    }
+
+
+    .index2-banner-shape::after {
+        height: 95px;
+        bottom: 0;
+    }
+
+    .index2-banner-section::after {
+        height: 135px;
+        bottom: -40px;
+    }
+
+    .blog-box-con figure {
+        width: 100%;
+        height: auto;
+        margin-bottom: 25px;
+    }
+    .index3-testimonial-sec.testimonial-main-sec .carousel-item p {
+        margin-bottom: 20px;
+        line-height: 27px;
+        font-size: 17px;
+    }
+
+    .index3-testimonial-sec .review-details-box::before {
+        width: 55px;
+        height: 60px;
+        left: 60px;
+        top: 8px;
+        background-size: contain;
+    }
+    .service-type-box figure {
+        margin-bottom: 15px;
+    }
+
+    .service-type-box {
+        padding: 30px 20px 30px;
+    }
+
+    .service-type-box h4 {
+        font-size: 19px;
+    }
+    .project-img figure img {
+        width: 100%;
+    }
+
+    .projects-outer-con .project-detail {
+        width: 75%;
+        padding: 20px 20px;
+    }
+
+    .projects-outer-con {
+        gap: 40px 30px;
+        grid-template-columns: 31.2% 31.2% 31.2%;
+    }
+}
+@media screen and (max-width:991px){
+	.subscribe-con button {
+        font-size: 14px;
+        padding: 15px 15px;
+    }
+
+    .subscribe-con input {
+        width: 300px;
+        padding: 15px 15px;
+    }
+	.nav-transparent .nav-container .navbar-collapse .navbar-nav > li:last-child a {
+		padding: 0px;
+		background-color: transparent;
+		color: #000;
+		border-radius: 6px;
+		margin-left: 0px;
+	}
+	.nav-transparent .nav-container .navbar-collapse .navbar-nav > li:last-child a:hover{
+		background-color: transparent;
+	}
+	.navbar-area .nav-container .navbar-collapse .navbar-nav li.menu-item-has-children {
+		margin-right: 0px;
+	}
+	.navbar-area .nav-container .navbar-collapse .navbar-nav .menu-item-has-children a:first-child::before{
+		color:#000 !important;
+	}
+	.navbar-area .nav-container .navbar-collapse .navbar-nav li + li {
+		margin: 0px 0px !important;
+	}
+	.navbar-area .nav-container .navbar-nav li.menu-item-has-children > .sub-menu {
+		border-radius: 6px !important;
+		background: transparent !important;
+		color: #000 !important;
+	}
+	.testimonial-main-sec .carousel-item p{
+		font-size: 16px;
+		line-height: 1.5em;
+	}
+	.member-img-details:hover .member-detail-box {
+        padding: 15px 10px 15px;
+    }
+
+    .member-detail-box p {
+        font-size: 15px;
+        line-height: 20px;
+    }
+
+    .member-detail-box .generic-btn a {
+        font-size: 12px;
+        line-height: 24px;
+    }
+	.member-img-details:hover .member-detail-box {
+        padding: 35px 20px 35px;
+    }
+	.dentists-main-section .owl-carousel .owl-item img {
+        width: 100%;
+    }
+
+    .dentist-box figure {
+        width: 210px;
+        height: 210px;
+    }
+
+    .dentists-main-section .social-links {
+        display: block;
+    }
+
+    .dentist-details span {
+        margin-bottom: 10px;
+    }
+
+    .dentist-details {
+        padding: 150px 25px 30px;
+    }
+
+    .patient-review-box p {
+        font-size: 16px;
+      }
+      .service-slider2 {
+        padding: 35px 11px 25px;
+    }
+
+    .index2-service-slider .owl-carousel .owl-item img {
+        width: 55px;
+    }
+
+    .service-slider2 p {
+        margin-bottom: 10px;
+    }
+    .index2-service-slider p{
+        font-size: 14px;
+        font-family: 'Mulish';
+        color: #777777;
+      }
+      
+    .generic-btn a {
+        font-size: 14px;
+        line-height: 14px;
+        padding: 18px 18px;
+    }
+    .banner2-con h1 {
+        font-size: 38px;
+        line-height: 44px;
+    }
+
+    .banner2-con p br {
+        display: none;
+    }
+
+    .banner2-con p {
+        margin-bottom: 15px;
+    }
+
+    .banner2-con {
+        padding: 0 8%;
+    }
+
+
+    .index2-banner-shape::after {
+        height: 86px;
+    }
+
+    .banner2-con .generic-btn a {
+        padding: 20px 25px;
+    }
+    .index2-banner-section .social-links {
+        display: none;
+    }
+    .banner2-con p {
+        padding: 0px 00px;
+    }
+    .blog-box-con h4 {
+        font-size: 18px;
+        line-height: 22px;
+    }
+    .index3-testimonial-sec .testimonial-inner-sec .review-details-box {
+        padding: 0px 30px 90px;
+        position: relative;
+    }
+
+    .index3-testimonial-sec .review-details-box::before {
+        left: 0;
+    }
+    .doctor-slides .owl-carousel .owl-nav button.owl-prev,
+    .doctor-slides .owl-carousel .owl-nav button.owl-next {
+        width: 18px;
+        height: 32px;
+    }
+    .service-type-box {
+        padding: 30px 30px 25px;
+    }
+
+    /* .index3-service-con {
+        gap: 20px;
+        grid-template-columns: 48.5% 48.5%;
+    } */
+    .service-type-box p {
+        margin-bottom: 8px;
+    }
+    .service-type-box p{
+        font-size: 16px;
+    }
+    .professional-team-section .owl-nav{
+        display: none;
+    }
+    .professional-team-section .doctor-slides .owl-stage-outer{
+        margin-bottom: 0px;
+    }
+    .projects-outer-con {
+        gap: 25px 15px;
+        grid-template-columns: 32% 32% 32%;
+    }
+
+    .projects-outer-con .project-detail {
+        width: 91%;
+        padding: 20px 20px;
+    }
+    .doctor-detail .social-links ul li a {
+        width: 33px;
+        height: 32px;
+    }
+    .medunit-page-containerr p{
+        font-size: 16px;
+    }
+    
+}
+@media screen and (max-width:860px) {
+	#moove_gdpr_cookie_info_bar .moove-gdpr-info-bar-container{
+		margin-right: 20px;
+		margin-left: 20px;
+	}
+}
+@media screen and (max-width:767px){
+    .box-1 img{
+        margin-bottom: 15px !important;
+      }
+      
+    .banner2-con .generic-btn a {
+        padding: 15px 25px;
+    }
+    .banner2-con {
+        padding: 0 0%;
+    }
+    .generic-btn a {
+        padding: 14px 20px;
+    }
+	.subscribe-con {
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .subscribe-con .form-sec {
+        flex-direction: column;
+        width: 100%;
+    }
+
+    .subscribe-con input {
+        width: 100%;
+    }
+
+    .subscribe-con button {
+        padding: 14px 25px;
+    }
+	.navbar-area-2 .navbar-area .nav-container .navbar-collapse .navbar-nav li {
+		padding: 0px !important;
+	}
+	.navbar-area-2 .navbar-area .navbar {
+		padding: 0px 0px;
+	}
+	.blogs-section .owl-carousel button.owl-dot.active {
+        height: 12px;
+        width: 12px;
+    }
+
+    .blogs-section .owl-carousel button.owl-dot {
+        margin: 0 3px;
+        height: 8px;
+        width: 8px;
+    }
+
+    .blogs-section .blog-box img{
+		text-align: center;
+    	margin: 0 auto;
+	}
+	.contact-form ul li input, .contact-form ul li select {
+		height: 45px;
+	}
+	.contact-form .submit-btn button {
+		width: 100%;
+		height: 45px;
+		line-height: 5px;
+		font-weight: 700;
+		font-size: 14px;
+	}
+	.contact-form ul li i {
+		top: 16px;
+	}
+	.project-main-section .owl-carousel .owl-dots button span {
+        width: 9px;
+        height: 9px;
+    }
+
+    .project-main-section .owl-carousel .owl-dots button.active span {
+        width: 12px;
+        height: 12px;
+    }
+
+    .project-main-section .owl-carousel .owl-dots button {
+        margin: 0 2px;
+    }
+	.project-detail p {
+		margin-bottom: 12px;
+		font-size: 14px !important;
+	  }
+	  .testimonial-main-sec .carousel-control-prev{
+		display: none;
+	  }
+	  .testimonial-main-sec .carousel-control-next{
+		display: none;
+	  }
+	  .testimonial-main-sec .review-details-box figure {
+		margin-bottom: 10px !important;
+	}
+	.testimonial-main-sec .carousel-item p{
+		font-size: 14px;
+		line-height: 1.5em;
+	}
+	.testimonial-inner-sec .carousel-indicators li {
+		background-position: center center;
+	}
+	.service-slider .treatment-types p {
+		font-size: 16px;
+		color: #7a7a7a;
+		padding: 0px;
+	}
+	
+	.team-inner-section {
+        grid-template-columns: 47.5% 47.5%;
+    }
+
+    .member-img-details:hover .member-detail-box {
+        width: 90%;
+        padding: 35px 20px 35px;
+    }
+	.project-main-section .owl-carousel .owl-dots button span {
+        width: 9px;
+        height: 9px;
+    }
+	.project-main-section img{
+		width: 100% !important;
+	}
+
+    .project-main-section .owl-carousel .owl-dots button.active span {
+        width: 12px;
+        height: 12px;
+    }
+
+    .project-main-section .owl-carousel .owl-dots button {
+        margin: 0 2px;
+    }
+
+    .index2-project-section.project-main-section .owl-carousel .owl-dots {
+        bottom: -50px;
+    }
+	.blog-txt-con {
+		padding: 55px 20px 20px;
+	}
+	.dentists-main-section .owl-carousel .owl-dots button span {
+        width: 9px;
+        height: 9px;
+    }
+
+    .dentists-main-section .owl-carousel .owl-dots button.active span {
+        width: 12px;
+        height: 12px;
+    }
+
+    .dentists-main-section .owl-carousel button.owl-dot {
+        margin: 0 2px;
+    }
+
+    .dentists-main-section .owl-carousel .owl-dots {
+        bottom: -55px;
+    }
+
+    .dentist-box figure {
+        width: 170px;
+        height: 170px;
+    }
+
+    .dentist-details {
+        margin-top: -80px;
+        padding: 100px 25px 30px;
+    }
+
+    .dentist-details h4 {
+        font-size: 20px;
+    }
+
+    .dentist-details .social-links ul li a i {
+        font-size: 14px;
+    }
+
+    .dentist-details .social-links ul li a {
+        width: 35px;
+        height: 35px;
+    }
+    .patient-reviews-sec .owl-carousel .owl-dots button.active span {
+        width: 12px;
+        height: 12px;
+    }
+
+    .patient-reviews-sec .owl-carousel .owl-dots button span {
+        width: 9px;
+        height: 9px;
+    }
+
+    .patient-reviews-sec .owl-carousel button.owl-dot {
+        margin: 0 2px;
+    }
+
+    .patient-reviews-sec .owl-carousel .owl-dots {
+        bottom: -60px;
+    }
+    .patient-review-box p {
+        font-size: 14px;
+        line-height: 20px;
+    }
+    .service-slider2 {
+        padding: 30px 20px 25px;
+    }
+
+    .index2-service-slider .owl-dots button.owl-dot {
+        width: 9px;
+        height: 9px;
+        margin: 0 2px;
+    }
+
+    .index2-service-slider .owl-dots button.owl-dot.active {
+        width: 12px;
+        height: 12px;
+    }
+    .index2-banner-shape {
+        height: 600px;
+    }
+    .index2-banner-section{
+        height: 600px;
+    }
+    
+    .index2-banner-section .btn-outer-box{
+        display: none;
+    }
+    .index3-testimonial-sec .review-details-box::before {
+        width: 40px;
+        height: 45px;
+        left: 0;
+    }
+
+    .index3-testimonial-sec .testimonial-inner-sec .review-details-box {
+        padding: 0px 15px 90px;
+    }
+    .service-type-box {
+        padding: 25px 16px 21px;
+    }
+
+    .service-type-box figure img {
+        width: 50px;
+        height: 50px;
+        object-fit: contain;
+    }
+
+    /* .index3-service-con {
+        gap: 15px;
+        grid-template-columns: 48.5% 48.5%;
+    } */
+    .index3-service-con{
+        text-align: left;
+    }
+    .service-type-box p{
+        font-size: 14px;
+    }
+    .index3-testimonial-sec.testimonial-main-sec .carousel-item p {
+        font-size: 14px;
+    }
+    .professional-team-section .owl-nav{
+        display: none;
+    }
+    .professional-team-section .doctor-slides .owl-stage-outer{
+        margin-bottom: 0px;
+    }
+    .projects-outer-con {
+        gap: 25px 20px;
+        grid-template-columns: 48% 48%;
+    }
+
+}
+@media screen and (max-width: 575px) {
+    .generic-btn a {
+        font-size: 13px;
+    }
+	.subscribe-con input {
+        padding: 12px 15px;
+    }
+
+    .subscribe-con button {
+        padding: 12px 25px;
+    }
+	.project-main-section .owl-carousel .owl-dots button {
+        margin: 0 2px;
+    }
+
+    .project-main-section .owl-carousel .owl-dots button span {
+        width: 8px;
+        height: 8px;
+    }
+
+    .project-main-section .owl-carousel .owl-dots button.active span {
+        width: 12px;
+        height: 12px;
+    }
+
+    .project-main-section .owl-carousel .owl-dots {
+        bottom: 40px;
+    }
+	.testimonial-inner-sec .carousel-item{
+		padding: 0px;
+	}
+	.testimonial-inner-sec .review-details-box {
+		text-align: center;
+		padding: 30px;
+	}
+	.testimonial-inner-sec .carousel-indicators{
+		margin: 0px 10px;
+	}
+	.testimonial-inner-sec .carousel-indicators li.active{
+		height: 52px;
+	}
+    .inquiry-text-sec {
+        text-align: center;
+    }
+
+    .patient-reviews-sec .owl-carousel .owl-dots {
+        bottom: -50px;
+    }
+    .service-slider2 figure {
+        margin-bottom: 10px;
+    }
+    .banner2-con h1 {
+        font-size: 24px;
+        line-height: 28px;
+        margin-bottom: 5px;
+    }
+
+    .banner2-con p {
+        font-size: 16px;
+        line-height: 20px;
+    }
+
+    .top-to-bottom-btn {
+        left: 44.5%;
+        bottom: 65px;
+    }
+
+    .index2-banner-shape::after {
+        height: 70px;
+    }
+
+    .blog-box-con h4 {
+        margin-bottom: 6px;
+    }
+
+    .blogs-section .owl-carousel button.owl-dot.active {
+        height: 12px;
+        width: 12px;
+    }
+
+    .blogs-section .owl-carousel button.owl-dot {
+        margin: 0 3px;
+        height: 8px;
+        width: 8px;
+    }
+
+    .index3-blogs-section.blogs-section .owl-stage-outer {
+        margin-bottom: 25px;
+    }
+    .testimonial-inner-sec .carousel-indicators li:first-child,
+    .testimonial-inner-sec .carousel-indicators li:nth-child(2),
+    .testimonial-inner-sec .carousel-indicators li:nth-child(3),
+    .testimonial-inner-sec .carousel-indicators li:nth-child(4),
+    .testimonial-inner-sec .carousel-indicators li:nth-child(5) {
+        background-position: center !important;
+    }
+
+    .index3-testimonial-sec .testimonial-inner-sec .carousel-indicators li {
+        width: 46px;
+        height: 46px;
+        border: 2px solid #fbf7f3;
+        border-radius: 100%;
+    }
+
+    .index3-testimonial-sec .testimonial-inner-sec .carousel-indicators li.active {
+        border: 2px solid var(--accent);
+    }
+
+    .index3-testimonial-sec .testimonial-inner-sec .carousel-indicators {
+        bottom: -10px;
+    }
+
+    .index3-testimonial-sec .testimonial-inner-sec .review-details-box {
+        padding: 0px 15px 60px;
+    }
+    .doctor-slides .owl-carousel .owl-nav button.owl-prev,
+    .doctor-slides .owl-carousel .owl-nav button.owl-next {
+        width: 13px;
+        height: 27px;
+        background-size: contain !important;
+    }
+    .projects-outer-con {
+        grid-template-columns: 100%;
+    }
+
+    .project-box .project-img figure {
+        width: 280px;
+        margin: 0 auto;
+    }
+
+    .projects-outer-con .project-detail {
+        width: 230px;
+    }
+}
