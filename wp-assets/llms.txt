@@ -7,28 +7,28 @@
 
 ## Pages
 
-- [Online Medical Store](https://keerthymedicals.com/online-medical-store/)
-- [Pharmacy Services](https://keerthymedicals.com/pharmacy-services/)
-- [Buy Medicines Online](https://keerthymedicals.com/buy-medicines-online/)
-- [FAQ's](https://keerthymedicals.com/faqs/)
-- [Branches](https://keerthymedicals.com/branches/)
-- [Services](https://keerthymedicals.com/services/)
-- [Products](https://keerthymedicals.com/products/)
-- [Blog](https://keerthymedicals.com/blog/)
-- [About us](https://keerthymedicals.com/about-us/)
-- [Contact Us](https://keerthymedicals.com/contact-us/)
-- [Home](https://keerthymedicals.com/)
+- [Online Medical Store](/online-medical-store/)
+- [Pharmacy Services](/pharmacy-services/)
+- [Buy Medicines Online](/buy-medicines-online/)
+- [FAQ's](/faqs/)
+- [Branches](/branches/)
+- [Services](/services/)
+- [Products](/products/)
+- [Blog](/blog/)
+- [About us](/about-us/)
+- [Contact Us](/contact-us/)
+- [Home](/)
 
 ---
 
 
 ## Posts
 
-- [Trending Healthcare Products Online – What’s Popular and Why](https://keerthymedicals.com/trending-healthcare-products-online-whats-popular-and-why/)
-- [The Role of Pharmacies in Preventive Healthcare](https://keerthymedicals.com/the-role-of-pharmacies-in-preventive-healthcare/)
-- [How to Choose the Right Pharmacy for Your Health Needs](https://keerthymedicals.com/how-to-choose-the-right-pharmacy-for-your-health-needs/)
-- [Essential Health Products Every Home Should Have](https://keerthymedicals.com/essential-health-products-every-home-should-have/)
-- [The Role of a Pharmacy in Supporting Your Health and Wellness Journey](https://keerthymedicals.com/the-role-of-a-pharmacy-in-supporting-your-health-and-wellness-journey/)
+- [Trending Healthcare Products Online – What’s Popular and Why](/trending-healthcare-products-online-whats-popular-and-why/)
+- [The Role of Pharmacies in Preventive Healthcare](/the-role-of-pharmacies-in-preventive-healthcare/)
+- [How to Choose the Right Pharmacy for Your Health Needs](/how-to-choose-the-right-pharmacy-for-your-health-needs/)
+- [Essential Health Products Every Home Should Have](/essential-health-products-every-home-should-have/)
+- [The Role of a Pharmacy in Supporting Your Health and Wellness Journey](/the-role-of-a-pharmacy-in-supporting-your-health-and-wellness-journey/)
 
 ---
 

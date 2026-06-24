@@ -1,30 +1,39 @@
 const fs = require('fs');
 const path = require('path');
 
-// Helper to recursively find all HTML files
-function getHtmlFiles(dir, fileList = []) {
+const allowedExtensions = ['.html', '.css', '.js', '.json', '.txt', '.xml', '.svg'];
+
+// Helper to recursively find all target files
+function getTargetFiles(dir, fileList = []) {
   const files = fs.readdirSync(dir);
   files.forEach(file => {
     const filePath = path.join(dir, file);
+    
+    // Ignore the script itself and common dependency/version control directories
+    if (filePath === __filename) return;
+    
     const stat = fs.statSync(filePath);
     
     if (stat.isDirectory()) {
       if (file !== 'node_modules' && file !== '.git') {
-        getHtmlFiles(filePath, fileList);
+        getTargetFiles(filePath, fileList);
       }
-    } else if (path.extname(file).toLowerCase() === '.html') {
-      fileList.push(filePath);
+    } else {
+      const ext = path.extname(file).toLowerCase();
+      if (allowedExtensions.includes(ext)) {
+        fileList.push(filePath);
+      }
     }
   });
   return fileList;
 }
 
 const rootDir = __dirname;
-console.log(`Scanning for HTML files in: ${rootDir}`);
-const htmlFiles = getHtmlFiles(rootDir);
-console.log(`Found ${htmlFiles.length} HTML files.`);
+console.log(`Scanning for text files in: ${rootDir}`);
+const targetFiles = getTargetFiles(rootDir);
+console.log(`Found ${targetFiles.length} text files to clean.`);
 
-htmlFiles.forEach(filePath => {
+targetFiles.forEach(filePath => {
   const relativePath = path.relative(rootDir, filePath);
   let content = fs.readFileSync(filePath, 'utf8');
   let originalContent = content;
@@ -79,4 +88,4 @@ htmlFiles.forEach(filePath => {
   }
 });
 
-console.log('All HTML files have been thoroughly cleaned of absolute production domain URLs (normal, escaped, and URL-encoded).');
+console.log('All text files have been thoroughly cleaned of absolute production domain URLs (normal, escaped, and URL-encoded).');
