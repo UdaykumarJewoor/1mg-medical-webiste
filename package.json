@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "dev": "npx -y serve ."
+    "dev": "npx -y serve .",
+    "build": "echo 'Static site; no build required.'"
   }
 }
